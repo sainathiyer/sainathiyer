@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sainathan Iyer</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sainathan Iyer</h1> -->
 
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p>
 
