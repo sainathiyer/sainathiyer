@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sainathiyer](https://github.com/sainathiyer)
 
-- 💬 Ask me about **Java, Data Structures, Algorithms, Spring**
+- 💬 Ask me about **Java, Data Structures, Algorithms**
 
 - 📫 How to reach me **sainathaniyer@gmail.com**
 
