@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&locale=en" alt="sainathiyer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathiyer&" alt="sainathiyer" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sainathiyer&" alt="sainathiyer" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
