@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sainath Iyer</h1>
 <h3 align="center">A Passionate Software Developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sainathiyer](https://github.com/sainathiyer)
-
-- 💬 Ask me about **Java, Data Structures, Algorithms**
-
 - 📫 How to reach me **sainathaniyer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
