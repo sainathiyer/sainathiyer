@@ -3,7 +3,7 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p>
 
 <!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631004115271.png" alt="sainathan-iyer-41b97b26" height="200" width="200" /></a> -->
-<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631004115271.png" height="200" width="200" /></a>
+<img align="right" src="https://octodex.github.com/images/manufacturetocat.png" height="200" width="200" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
