@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631004115271.png" height="200" width="200" /></a> -->
 <!-- <img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="135" width="160" /></a> -->
 
-<img align="right" src="https://octodex.github.com/images/codercat.jpg" height="314" width="314"/></a>
+<img align="right" src="https://octodex.github.com/images/codercat.jpg" height="224" width="224"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
