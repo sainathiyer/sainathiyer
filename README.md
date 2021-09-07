@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sainathan Iyer</h1>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=github&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&locale=en" alt="sainathiyer" /></p>
 
