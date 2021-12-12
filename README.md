@@ -7,6 +7,6 @@
 
 <a href = 'https://www.hackerrank.com/sainathaniyer'> <img width ='40px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/900px-HackerRank_Icon-1000px.png"/></a>
 
-<img width ='50px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/Java_programming_language_logo.svg.png" />
+<img width ='40px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/Java_programming_language_logo.svg.png" />
 
 <img width ='50px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/2048px-Angular_full_color_logo.svg.png" />
