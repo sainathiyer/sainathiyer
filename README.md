@@ -5,7 +5,7 @@
 <!-- <img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="135" width="160" /></a> -->
 <!-- <img align="right" src="https://octodex.github.com/images/codercat.jpg" height="224" width="224"/></a> -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="290" height="200" />
+<img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="290" height="200" />
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&theme=gotham" alt="sainathiyer"/>
 
