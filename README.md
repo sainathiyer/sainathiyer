@@ -1,7 +1,5 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">, I'm Sainath Iyer</h1>
 
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p>
-
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="225" />
 
 <h3 align="left">Connect with me:</h3>
