@@ -4,3 +4,5 @@
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370px" height="250px"/>
 
 <a href = 'https://linkedin.com/in/sainathan-iyer-41b97b26'> <img width ='50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+
+<a href = 'https://www.hackerrank.com/sainathaniyer'> <img width ='50px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/900px-HackerRank_Icon-1000px.png"/></a>
