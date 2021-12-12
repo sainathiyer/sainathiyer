@@ -7,7 +7,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="290" height="200" />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&theme=gotham" alt="sainathiyer" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&theme=gotham" alt="sainathiyer" width="290" height="200" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
