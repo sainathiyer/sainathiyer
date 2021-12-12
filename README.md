@@ -3,7 +3,7 @@
 <!-- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p> -->
 
 <!-- <img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1631004115271.png" height="200" width="200" /></a> -->
-<!-- <img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="135" width="160" /></a> -->
+<img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="135" width="160" /></a>
 
 <!-- <img align="right" src="https://octodex.github.com/images/codercat.jpg" height="224" width="224"/></a> -->
 
