@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Sainath Iyer</h1>
+<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">, I'm Sainath Iyer</h1>
 
 <!-- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p> -->
 
