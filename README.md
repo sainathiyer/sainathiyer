@@ -3,5 +3,4 @@
 <img align="left" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/programming.gif?raw=true" width="340px" height="250px"/>
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="370px" height="250px"/>
 
-<h2><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://linkedin.com/in/sainathan-iyer-41b97b26'> <img width ='55px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
