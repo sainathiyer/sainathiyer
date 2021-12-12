@@ -3,11 +3,9 @@
 <!-- <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainathiyer&theme=nord_bright&show_icons=true&locale=en&layout=compact" alt="sainathiyer" /></p> -->
 
 <!-- <img align="right" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" height="135" width="160" /></a> -->
-<!-- <img align="right" src="https://octodex.github.com/images/codercat.jpg" height="224" width="224"/></a> -->
+<img align="right" src="https://octodex.github.com/images/codercat.jpg" height="224" width="224"/></a>
 
 <img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="290" height="195" />
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sainathiyer&show_icons=true&theme=gotham" alt="sainathiyer"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
