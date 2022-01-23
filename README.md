@@ -6,7 +6,3 @@
 <a href = 'https://linkedin.com/in/sainathan-iyer-41b97b26'> <img width ='43px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/LinkedIn_logo_initials.png"/></a>
 
 <a href = 'https://www.hackerrank.com/sainathaniyer'> <img width ='43px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/900px-HackerRank_Icon-1000px.png"/></a>
-
-<!-- <img width ='43px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/Java_programming_language_logo.svg.png" /> -->
-
-<!-- <img width ='43px' align= 'center' src="https://github.com/sainathiyer/sainathiyer/blob/main/2048px-Angular_full_color_logo.svg.png" /> -->
