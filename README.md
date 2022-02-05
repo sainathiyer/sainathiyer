@@ -2,6 +2,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="370px" height="250px"/>
 
+- 💬 Ask me about: **Java, Spring Boot, Angular**
+- 📫 How to reach me: **sainathaniyer@gmail.com**
+- ⚡ Fun fact: **Food and Music are reasons to live**
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://linkedin.com/in/sainathan-iyer-41b97b26" target="blank"><img align="center"
