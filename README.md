@@ -4,7 +4,6 @@
 
 ### 🤵 About Me:
 - 💬 Ask me about anything, I am happy to help.
-- 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **sainathaniyer@gmail.com**
 - ⚡ Fun fact: **Food and Music are reasons to live**
 
