@@ -11,3 +11,5 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="sainathaniyer" height="30" width="40" /></a>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainathiyer&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sainath's Github Stats">
