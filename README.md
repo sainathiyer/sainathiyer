@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">, I'm Sainath Iyer</h1>
 
-<img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="370px" height="250px"/>
+<img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="370px" height="260px"/>
 
 ### 🤵 About Me:
 - 💬 Ask me about anything, I am happy to help.
