@@ -9,6 +9,6 @@
       alt="Sainathan Iyer" height="40" width="50" /></a>
   <a href="https://www.hackerrank.com/sainathaniyer" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="sainathaniyer" height="30" width="40" /></a>
+      alt="sainathaniyer" height="40" width="50" /></a>
 </p>
 
