@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="31px">, I'm Sainath Iyer</h1>
 
-<img align="left" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="360px" height="240px"/>
+<img align="left" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="360px" height="230px"/>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
