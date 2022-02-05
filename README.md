@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="370px" height="250px"/>
 
-- 💬 Ask me about: **Java, Spring Boot, Angular**
+- 💬 Ask me about: **Java, Spring Boot, Git, GitHub**
 - 📫 How to reach me: **sainathaniyer@gmail.com**
 - ⚡ Fun fact: **Food and Music are reasons to live**
 
