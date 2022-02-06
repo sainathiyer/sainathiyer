@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **Java, Spring Boot and Angular**
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: **sainathaniyer@gmail.com**
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Food and Music are reasons to live**
 
 <h2 align="left">Connect with me:</h2>
