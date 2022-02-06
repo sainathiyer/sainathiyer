@@ -3,6 +3,7 @@
 <img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="400px" height="300px"/>
 
 ### 🤵 About Me:
+- 🔭 I’m currently working on **Java, Spring Boot and Angular**
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: **sainathaniyer@gmail.com**
 - ⚡ Fun fact: **Food and Music are reasons to live**
