@@ -4,7 +4,7 @@
 
 ### 🤵 About Me:
 - 🔭 I’m currently working on **Java, Spring Boot and Angular**
-- 🌱 I’m currently learning **DevOps and Backend Development**
+- 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: **sainathaniyer@gmail.com**
 - 😄 Pronouns: **He/Him**
