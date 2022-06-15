@@ -1,7 +1,5 @@
 <h1 align="left">Hi, I'm Sainath Iyer</h1>
 
-<img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true"/>
-
 ### 🤵 About Me:
 - 🔭 I’m currently working on **Java, Spring Boot and Angular**
 - 🌱 I’m currently learning **Backend Development**
