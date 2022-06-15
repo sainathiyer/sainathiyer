@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200px">, I'm Sainath Iyer</h1>
+<h1 align="left">Hi, I'm Sainath Iyer</h1>
 
 <img align="right" alt="GIF" src="https://github.com/sainathiyer/sainathiyer/blob/main/code.gif?raw=true" width="400px" height="300px"/>
 
