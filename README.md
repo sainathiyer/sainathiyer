@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: **sainathaniyer@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **Best Part of The Journey Is: It Ends**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
